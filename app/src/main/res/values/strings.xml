@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestingSample</string>
+    <string name="link1">https://www.youtube.com/watch?v=FfW2yyxBHpg</string>
+    <string name="link2">https://www.youtube.com/watch?v=NTG7NZgQals</string>
+    <string name="link3">https://www.youtube.com/watch?v=hQXLrPlcbeo</string>
+    <string name="link4">https://www.youtube.com/watch?v=tUiP0_B6pP4</string>
+</resources>

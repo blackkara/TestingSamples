@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="youtube_initialize" />
+    <item type="id" name="youtube_video_id"/>
+    <item type="id" name="youtube_thumbnail_loader"/>
+    <item type="id" name="holder_pos"/>
+</resources>
